@@ -1,0 +1,9 @@
+var num1 = 16.762;
+var num2 = 12.37982;
+var num3 = -9.3079499;
+var a = num1.toFixed(2);
+var b = num2.toFixed(2);
+var c = num3.toFixed(4);
+document.write(num1+" = "+a);
+document.write("<br>"+num2+" = "+b);
+document.write("<br>"+num3+" = "+c);
